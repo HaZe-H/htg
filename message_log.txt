@@ -1,6 +1,6 @@
 I am entering 
 
-AUDCHF Buy 
+AUVCHF Buy 
 
 Stop loss: 0.60190
 
@@ -8,3 +8,4 @@ Take profit: 0.61200
 
 This is not financial advice
 21:31
+22:22
