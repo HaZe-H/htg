@@ -1,10 +1,10 @@
 I am entering 
 
-GBPCAD BUY 
+CHFJPY SELL 
 
-Stop loss: 1.67500
+Stop loss: 147.350 
 
-Take profit: 1.68900   
+Take profit: 146.650 
 
 This is not financial advice
-18:31
+21:28
