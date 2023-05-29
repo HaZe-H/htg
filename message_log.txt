@@ -1,10 +1,10 @@
 I am entering 
 
-CHFJPY SELL 
+AUDCHF Buy 
 
-Stop loss: 147.350 
+Stop loss: 0.60190
 
-Take profit: 146.650 
+Take profit: 0.61200
 
 This is not financial advice
-21:28
+21:31
