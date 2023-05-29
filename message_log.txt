@@ -1,13 +1,10 @@
 I am entering 
 
-EURGBP BUY 
+GBPCAD BUY 
 
-Stop loss: 0.86350
+Stop loss: 1.67500
 
-Take profit: 0.87250 
+Take profit: 1.68900   
 
 This is not financial advice
-48
-9
-937
-15:46
+18:31
