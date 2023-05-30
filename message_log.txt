@@ -1,11 +1,10 @@
 I am entering 
 
-AUVCHF Buy 
+EURUSD Sell 
 
-Stop loss: 0.60190
+Stop loss: 1.07500
 
-Take profit: 0.61200
+Take profit: 1.07000 
 
 This is not financial advice
-21:31
-22:22
+13:26
